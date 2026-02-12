@@ -59,7 +59,7 @@ A fast-built experimental AI system which implements good old day personal websi
 ---
 
 ### 🪪 adult_certification
-An educational game that tests real-world adult knowledge.
+An educational game that tests real-world adult knowledge.  
 Available to play at itch.io on browser.  
 
 https://theillusionoflife.itch.io/license-to-adult
