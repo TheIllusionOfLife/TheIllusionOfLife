@@ -68,6 +68,7 @@ An educational game that tests real-world adult knowledge.
 Available to play at itch.io on browser.  
 
 https://theillusionoflife.itch.io/license-to-adult
+
 ---
 
 ## Background
