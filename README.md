@@ -1,3 +1,17 @@
+![Stats](https://github-readme-stats.vercel.app/api?username=TheIllusionOfLife&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheIllusionOfLife&layout=compact&theme=tokyonight)
+
+<div align="center">
+  <h3>Tech Stack</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</div>
+
+![Snake animation](https://github.com/TheIllusionOfLife/TheIllusionOfLife/blob/output/github-contribution-grid-snake.svg)
+
 # The Illusion of Life
 ### AI Researcher · Data Scientist · Game Developer
 
