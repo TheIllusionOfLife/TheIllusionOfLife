@@ -30,7 +30,7 @@ https://github.com/TheIllusionOfLife/Eureka
 
 ---
 
-### ⚡ mad_spark_alt
+### mad_spark_alt
 **Experimental AI Ideation Engine**
 
 A lightweight system for rapid idea mutation, evaluation, and evolution.
@@ -39,7 +39,7 @@ A lightweight system for rapid idea mutation, evaluation, and evolution.
 
 ---
 
-### 🧠 tunix
+### tunix
 Kaggle Competition on post-training techniques for LLMs on TPU
 - LLM post-training
 - TPU-based experimentation
@@ -47,7 +47,7 @@ Kaggle Competition on post-training techniques for LLMs on TPU
 
 ---
 
-### 🎃 kiroween
+### kiroween
 A Project for Kiro's hachathon.
 
 A fast-built experimental AI system which implements good old day personal websites with modern stack.
@@ -60,19 +60,20 @@ A fast-built experimental AI system which implements good old day personal websi
 
 ### 🪪 adult_certification
 An educational game that tests real-world adult knowledge.
-Available to play at itch.io on browser.
+Available to play at itch.io on browser.  
+
 https://theillusionoflife.itch.io/license-to-adult
 
 ---
 
-### 🤖 promote_autonomy
+### promote_autonomy
 Autonomous AI Marketing Agent
 
 An experimental system where AI agents generate promotional assets for your products.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 - Python
@@ -92,7 +93,7 @@ An experimental system where AI agents generate promotional assets for your prod
 
 ---
 
-## 🏆 Background
+## Background
 - 14+ years in data science and AI
 - Former game director
 - Founder of entertainment startup
@@ -100,7 +101,7 @@ An experimental system where AI agents generate promotional assets for your prod
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 - Multi-agent reasoning systems
 - ARC-style intelligence
 - Autonomous AI civilizations
