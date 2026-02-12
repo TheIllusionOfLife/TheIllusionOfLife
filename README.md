@@ -1,16 +1,29 @@
+<div align="center">
+  <h3>💻 Technology Stack</h3>
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br>
+
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <br>
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <br>
+  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</div>
+
+![Snake animation](https://raw.githubusercontent.com/TheIllusionOfLife/TheIllusionOfLife/output/github-contribution-grid-snake.svg)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=TheIllusionOfLife&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheIllusionOfLife&layout=compact&theme=tokyonight)
-
-<div align="center">
-  <h3>Tech Stack</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</div>
-
-![Snake animation](https://github.com/TheIllusionOfLife/TheIllusionOfLife/blob/output/github-contribution-grid-snake.svg)
 
 # The Illusion of Life
 ### AI Researcher · Data Scientist · Game Developer
@@ -40,8 +53,6 @@ A structured LLM-based system where agents generate, critique, defend, and evolv
 - Multi-LLM support
 - CLI + Web UI
 
-https://github.com/TheIllusionOfLife/Eureka
-
 ---
 
 ### mad_spark_alt
@@ -55,7 +66,7 @@ A lightweight system for rapid idea mutation, evaluation, and evolution.
 
 ### tunix
 Kaggle Competition on post-training techniques for LLMs on TPU
-- LLM post-training
+- Google's LLM post-training library
 - TPU-based experimentation
 - Competition-driven optimization
 
@@ -65,14 +76,12 @@ Kaggle Competition on post-training techniques for LLMs on TPU
 A Project for Kiro's hachathon.
 
 A fast-built experimental AI system which implements good old day personal websites with modern stack.
-- Access counter
-- Spinning GIFs
-- BBS
-- Some annoying features
+- Access counter, Spinning GIFs, BBS, and some annoying features
+- TypeScript, React, shadcn/ui, Next.js, Zustand, Convex, Clerk, Vitest, fast-check, Vercel
 
 ---
 
-### 🪪 adult_certification
+### adult_certification
 An educational game that tests real-world adult knowledge.  
 Available to play at itch.io on browser.  
 
@@ -84,7 +93,7 @@ https://theillusionoflife.itch.io/license-to-adult
 Autonomous AI Marketing Agent
 
 An experimental system where AI agents generate promotional assets for your products.
-
+- Python, Google ADK, Cloud Run, Pub/Sub, Imagen, Veo, Firebase, Firestore, Cloud Storage, Next.js
 ---
 
 ## Tech Stack
