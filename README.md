@@ -5,10 +5,7 @@ Building autonomous AI systems, idea-generation engines, and experimental games.
 
 ---
 
-## 🧠 Core Vision
-I design systems where multiple AI agents interact, debate, and evolve ideas —  
-treating intelligence as an emergent property of complex interaction.
-
+## Core Vision
 My work sits at the intersection of:
 
 - Multi-agent AI
@@ -18,9 +15,9 @@ My work sits at the intersection of:
 
 ---
 
-## 🚀 Main Projects
+## Featured Projects
 
-### 🧠 Eureka
+### Eureka
 **Multi-Agent Idea Generation System**
 
 A structured LLM-based system where agents generate, critique, defend, and evolve ideas.
@@ -28,10 +25,8 @@ A structured LLM-based system where agents generate, critique, defend, and evolv
 - Generator / Critic / Advocate / Skeptic agents
 - Multi-LLM support
 - CLI + Web UI
-- High test coverage
-- Cost tracking and caching
 
-➡️ https://github.com/TheIllusionOfLife/Eureka
+https://github.com/TheIllusionOfLife/Eureka
 
 ---
 
@@ -39,15 +34,13 @@ A structured LLM-based system where agents generate, critique, defend, and evolv
 **Experimental AI Ideation Engine**
 
 A lightweight system for rapid idea mutation, evaluation, and evolution.
+- Mimicking consultants' approach for problem solving
+- Genetic algorithm to evolve ideas
 
 ---
 
 ### 🧠 tunix
-**Kaggle Competition — Google Tunix Post-Training Challenge**
-
-Participation in a Kaggle competition hosted by Google’s Tunix team,  
-focused on post-training techniques for large language models on TPU.
-
+Kaggle Competition on post-training techniques for LLMs on TPU
 - LLM post-training
 - TPU-based experimentation
 - Competition-driven optimization
@@ -55,23 +48,27 @@ focused on post-training techniques for large language models on TPU.
 ---
 
 ### 🎃 kiroween
-**AI Hackathon Project**
+A Project for Kiro's hachathon.
 
-A fast-built experimental AI system created under hackathon constraints.
+A fast-built experimental AI system which implements good old day personal websites with modern stack.
+- Access counter
+- Spinning GIFs
+- BBS
+- Some annoying features
 
 ---
 
 ### 🪪 adult_certification
-**Gamified “Adult Skills” Knowledge System**
-
-A social/educational game concept that tests real-world adult knowledge.
+An educational game that tests real-world adult knowledge.
+Available to play at itch.io on browser.
+https://theillusionoflife.itch.io/license-to-adult
 
 ---
 
 ### 🤖 promote_autonomy
-**Autonomous AI Marketing Agent**
+Autonomous AI Marketing Agent
 
-An experimental system where AI agents autonomously generate and promote ideas or products.
+An experimental system where AI agents generate promotional assets for your products.
 
 ---
 
