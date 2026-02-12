@@ -1,4 +1,4 @@
-# Yuya Mukai
+# The Illusion of Life
 ### AI Researcher · Data Scientist · Game Developer
 
 Building autonomous AI systems, idea-generation engines, and experimental games.
