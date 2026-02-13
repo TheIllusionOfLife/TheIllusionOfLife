@@ -21,7 +21,7 @@ Building autonomous AI systems and experimental games.
 My work sits at the intersection of:
 
 - Artificial General Intelligence
-- Autonomous multi-agent AI system
+- Multi-agent AI system
 - Artificial life
 - Experimental game mechanics
 
