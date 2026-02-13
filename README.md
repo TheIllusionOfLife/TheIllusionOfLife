@@ -21,9 +21,9 @@ Building autonomous AI systems and experimental games.
 ## Core Vision
 My work sits at the intersection of:
 
-- Multi-agent AI
-- Autonomous ideation systems
-- Artificial life with LLMs
+- Artificial General Intelligence
+- Autonomous multi-agent AI system
+- Artificial life
 - Experimental game mechanics
 
 ## Featured Projects
@@ -75,12 +75,3 @@ https://theillusionoflife.itch.io/license-to-adult
 - 15+ years in data science, AI, game development
 - Founder of entertainment startup
 - Active in data competitions, AI hackathons, game development, and AI research
-
----
-
-## Research Interests
-- Multi-agent reasoning systems
-- ARC-style intelligence
-- Autonomous AI civilizations
-- Idea evolution algorithms
-- AI-driven game worlds
