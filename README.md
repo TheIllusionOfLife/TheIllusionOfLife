@@ -1,3 +1,5 @@
+<img width="768" height="323" alt="hero" src="https://github.com/user-attachments/assets/049bef7d-aed3-4cab-86a5-acfc0550fb53" />
+
 # The Illusion of Life
 ### AI Researcher · Data Scientist · Game Developer
 Building autonomous AI systems and experimental games.
@@ -66,6 +68,7 @@ An experimental system where AI agents generate promotional assets for your prod
 ### 🪪adult_certification
 An educational game that tests real-world adult knowledge.  
 Available to play at itch.io on browser.  
+<img width="500" height="512" alt="adult_certification screenshot" src="https://github.com/user-attachments/assets/92b01ef4-231c-4678-8fbd-c1427f727586" />
 
 https://theillusionoflife.itch.io/license-to-adult
 
