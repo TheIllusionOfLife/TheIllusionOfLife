@@ -1,7 +1,7 @@
 <img width="768" height="323" alt="hero" src="https://github.com/user-attachments/assets/049bef7d-aed3-4cab-86a5-acfc0550fb53" />
 
 # The Illusion of Life
-### AI Researcher · Data Scientist · Game Developer
+### Data Scientist · AI Researcher · Game Developer
 Building autonomous AI systems and experimental games.
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
