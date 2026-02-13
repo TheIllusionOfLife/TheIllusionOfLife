@@ -53,11 +53,10 @@ Kaggle Competition on post-training techniques for LLMs on TPU
 - Competition-driven optimization
 
 ### 🎃kiroween
-A Project for Kiro's hachathon.
-
-A fast-built experimental AI system which implements good old day personal websites with modern stack.
+A Project for Kiro's hachathon which implements good old-days personal websites with modern stack.
 - Access counter, Spinning GIFs, BBS, and some annoying features
 - TypeScript, React, shadcn/ui, Next.js, Zustand, Convex, Clerk, Vitest, fast-check, Vercel
+<img width="640" height="360" alt="kiroween screenshot" src="https://github.com/user-attachments/assets/84cce17c-dac5-452e-954e-da6074f78674" />
 
 ### 🎩promote_autonomy
 Autonomous AI Marketing Agent
@@ -67,9 +66,9 @@ An experimental system where AI agents generate promotional assets for your prod
 
 ### 🪪adult_certification
 An educational game that tests real-world adult knowledge.  
-Available to play at itch.io on browser.  
 <img width="500" height="512" alt="adult_certification screenshot" src="https://github.com/user-attachments/assets/92b01ef4-231c-4678-8fbd-c1427f727586" />
 
+Available to play at itch.io on browser.  
 https://theillusionoflife.itch.io/license-to-adult
 
 ---
