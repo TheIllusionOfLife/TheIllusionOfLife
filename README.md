@@ -38,6 +38,8 @@ A structured LLM-based system where agents generate, critique, defend, and evolv
 - Generator / Critic / Advocate / Skeptic agents
 - Multi-LLM support
 - CLI + Web UI
+<img width="370" height="494" alt="Screenshot 2026-02-13 at 14 28 27" src="https://github.com/user-attachments/assets/d00aad8d-3d9d-4ab0-a657-8ed7f2eb5547" />
+
 
 ### 🧬mad_spark_alt
 **Experimental AI Ideation Engine**
