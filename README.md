@@ -1,4 +1,8 @@
-<img width="768" height="323" alt="hero" src="https://github.com/user-attachments/assets/049bef7d-aed3-4cab-86a5-acfc0550fb53" />
+<!-- <img width="768" height="323" alt="hero" src="https://github.com/user-attachments/assets/049bef7d-aed3-4cab-86a5-acfc0550fb53" /> -->
+<img width="938" height="450" alt="hero2" src="https://github.com/user-attachments/assets/175f83ac-c7e0-457d-87ab-72225465afc0" />
+
+
+
 
 # The Illusion of Life
 ### Data Scientist · AI Researcher · Game Developer
